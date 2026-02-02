@@ -170,7 +170,7 @@ const AboutSection = () => {
             >
               <Avatar className="w-40 h-40 border-4 border-primary/20">
                 <AvatarImage
-                  src="/imgs/profile.jpeg"
+                  src="/imgs/profile.png"
                   alt="Sajawal Chohan"
                   loading="lazy"
                   className="object-contain"
